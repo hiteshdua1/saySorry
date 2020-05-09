@@ -1,6 +1,9 @@
 # saySorry
 > Cause you keep repeating mistakes, You dumbass, soooo....... say sorry ?
 
+This is a whatsapp web script to repeat your sorry message to the number of times your girl asks you to do
+* No questions asked!
+
 ### HOW TO:
 Update `config.js` with 3 parameters according to the level of your MISTAKES
 ```
