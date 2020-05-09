@@ -1,0 +1,14 @@
+{
+  "name": "sorryscriptwhatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "saySorry.js",
+  "scripts": {
+    "start": "node saySorry.js"
+  },
+  "author": "Hitesh Dua",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
